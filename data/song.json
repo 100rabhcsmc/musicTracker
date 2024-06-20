@@ -1,0 +1,29 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1209,
+      "created_at": "2024-04-15T21:32:14.000Z",
+      "user_id": 1,
+      "artist_name": "Mohammed Rafi",
+      "track_title": "Chhalka Yeh Jaam(From \"Mere Hamdam Mere Dost\")",
+      "track_number": 4,
+      "album_art": "https://i.scdn.co/image/ab67616d00001e022c3b6d6d29e72919971c3455",
+      "album_name": "Rhythmical Duo Laxmikant - Pyarelal",
+      "release_date": "2018-04-24",
+      "artists": "Mohammed Rafi",
+      "isrc": "INH109535530",
+      "lyrics": "[00.00.00]\n[00:20.54]Chhalakaae jaam aaiye\n[00:26.66]Aap ki aankho ke naam\n[00:32.78]Hotho ke naam\n[00:36.23]Chhalakaae jaam aaiye\n[00:41.54]Aap ki aankho ke naam\n[00:46.85]Hotho ke naam\n[00:50.84]Aankho ke naam hotho ke naam\n[01:11.57]Phul jaise tan ke jalave\n[01:15.27]Ye rang-o-bu ke\n[01:17.93]Ye rang-o-bu ke\n[01:21.64]Aaj jaam-e-may uthe\n[01:24.83]In hotho ko chhuke\n[01:28.28]In hotho ko chhuke\n[01:32.55]Lachakaaiye shaakh-e-badan\n[01:39.76]Mehakaaie zulpho ki shaam\n[01:46.65]Chhalakaae jaam aaiye\n[01:51.97]Aap ki aankho ke naam\n[01:57.28]Hotho ke naam\n[02:22.83]Aapakaa hi naam lekar\n[02:24.95]Pi hai sabhi ne\n[02:28.13]Pi hai sabhi ne\n[02:31.76]Aap par dhadak rahe hai\n[02:34.95]Pyaalo ke sine\n[02:38.40]Pyaalo ke sine\n[02:42.38]Yahaan ajanabi koi nahi\n[02:49.56]Ye hai aap ki mahafil tamaam\n[02:56.46]Chhalakaae jaam aaiye\n[03:02.04]Aap ki aankho ke naam\n[03:07.36]Hotho ke naam\n[03:31.79]Kaun har kisi ki baahe\n[03:35.51]Baaho me daal le\n[03:38.18]Baaho me daal le\n[03:42.17]Jo nazar ko shaakh laae\n[03:45.36]Wo hi sambhaal le\n[03:48.81]Wo hi sambhaal le\n[03:52.80]Duniyaa ko ho auro ki dhun\n[04:00.25]Hamako to hai saaqi se kaam\n[04:06.89]Chhalakaae jaam aaiye\n[04:12.73]Aap ki aankho ke naam\n[04:17.51]Hotho ke naam\n[04:20.97]Chhalakaae jaam aaiye\n[04:26.01]Aap ki aankho ke naam\n[04:31.33]Hotho ke naam\n[04:35.04]Aankho ke naam hotho ke naam",
+      "file_name_vocal": "https://songbird-vault.s3.ap-southeast-1.amazonaws.com/original/Chhalka+Yeh+Jaam%28From+%22Mere+Hamdam+Mere+Dost%22%29.mp3",
+      "file_location": "Chhalka Yeh Jaam(From \"Mere Hamdam Mere Dost\").mp3",
+      "file_name_without_vocal": "Chhalka Yeh Jaam(From \"Mere Hamdam Mere Dost\").mp3",
+      "without_vocal": "https://songbird-vault.s3.ap-southeast-1.amazonaws.com/karaoke/Chhalka+Yeh+Jaam%28From+%22Mere+Hamdam+Mere+Dost%22%29.mp3",
+      "version": 3,
+      "status": 1
+    }
+  ],
+  "message": "Song List Fetched Successfully",
+  "total_count": 22,
+  "current_page": 1,
+  "per_page": 1
+}
